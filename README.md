@@ -27,5 +27,5 @@ Open http://127.0.0.1:5000
 |---|---|---|
 | GET | /api/expenses | List all expenses |
 | POST | /api/expenses | Add an expense |
-| DELETE | /api/expenses/<id> | Delete an expense |
+| DELETE | /api/expenses/{id} | Delete an expense |
 | GET | /api/summary | Totals and category summary |
